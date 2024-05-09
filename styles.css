@@ -1,0 +1,18 @@
+h1{text-align: center;}
+.navigation{list-style-type: none;
+padding: 0px;
+margin: 0px;
+overflow: hidden;}
+
+.navigation a{
+    color:blueviolet;
+text-decoration: none;
+padding: 15px;
+display:block;
+text-align: center;}
+
+.navigation a:hover{background-color: black;
+}
+
+.navigation li{float: left;}
+}
